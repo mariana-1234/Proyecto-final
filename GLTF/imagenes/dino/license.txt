@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dinosaurio High Poly
+* source:	https://sketchfab.com/3d-models/dinosaurio-high-poly-338750859a814c8d99e45095ed95a2e6
+* author:	Pedro Javier Velasco Lozano (https://sketchfab.com/PedroJVL)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dinosaurio High Poly" (https://sketchfab.com/3d-models/dinosaurio-high-poly-338750859a814c8d99e45095ed95a2e6) by Pedro Javier Velasco Lozano (https://sketchfab.com/PedroJVL) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
